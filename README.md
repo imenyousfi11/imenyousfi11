@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hey, I'm Imen Yousfi!
 
-<!--
-**imenyousfi11/imenyousfi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Front-End WordPress Developer passionate about clean, intuitive, and responsive interfaces.
 
-Here are some ideas to get you started:
+🚀 Every line of code is an opportunity for me to create something beautiful, functional, and impactful. I love learning, solving problems, and pushing my limits.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML5 | CSS3 | JavaSript | React.js / React Native | WordPress 
+- Responsive Design
+- Firebase | MySQL
+- Git & GitHub
+
+## 🌍 My Portfolio
+🖥️ [Link to portfolio](https://imenyousfi.com)
+
+## 💬 What I'm looking for
+I'm always looking for **new opportunities**, **technical challenges**, and **enriching collaborations**.
+
+📫 Contact me: imenyousfi44@gmail.com

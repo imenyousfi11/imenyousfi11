@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Imen Yousfi!
 
-💡 Front-End and WordPress Developer passionate about clean, intuitive, and responsive interfaces.
+💡 Frontend Engineer | Mobile & Web Developer, and WordPress Developer passionate about clean, intuitive, and responsive interfaces.
 
 🚀 Every line of code is an opportunity for me to create something beautiful, functional, and impactful. I love learning, solving problems, and pushing my limits.
 
